@@ -50,9 +50,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/noahub/gatsby-typescript-starter"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/noahub/gatsby-typescript-starter/issues"
   }
 }
