@@ -4,6 +4,8 @@
 
 This starter ships with the main Gatsby configuration files you need to build a basic site using React and Typescript
 
+[Demo Page](https://gatsby-basic-typescript-starter.netlify.app/)
+
 This starter is an extension of the [Default Starter](https://github.com/gatsbyjs/gatsby-starter-default)
 
 ## Features
