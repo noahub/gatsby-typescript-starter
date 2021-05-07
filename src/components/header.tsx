@@ -19,6 +19,8 @@ const Content = styled.div`
   a {
     color: white;
     text-decoration: none;
+    font-size: 0.75em;
+    font-family: "Barlow Semi Condensed";
   }
 `
 const Header = ({ siteTitle = "" }: Props) => (
