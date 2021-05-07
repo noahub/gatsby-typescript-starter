@@ -36,7 +36,9 @@
     "prettier": "^2.0.5"
   },
   "keywords": [
-    "gatsby", "typescript", "emotion"
+    "gatsby",
+    "typescript",
+    "emotion"
   ],
   "license": "MIT",
   "scripts": {
